@@ -1,2 +1,2 @@
 # Votacao
-Um sisteminha para saber quem vence as eleições.✌✌✌✌
+Uma votação para saber quem vence as eleições.✌✌✌✌
