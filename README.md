@@ -1,2 +1,2 @@
 # Votacao
-Uma votação para saber quem vence as eleições.✌✌✌✌
+Uma adivinhação para saber quem vence as eleições.✌✌✌✌
